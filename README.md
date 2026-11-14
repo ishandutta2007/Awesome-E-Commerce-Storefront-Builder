@@ -1,31 +1,52 @@
-# Awesome-E-Commerce-Storefront-Builder
+# 🛒 Awesome-E-Commerce-Storefront-Builder
 
-## Top E-Commerce Storefront Builder Ecosystem
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome E-Commerce Storefront Builder Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Self-Hosted Storefronts, Headless Commerce & Transaction-Fee-Free Alternatives*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.ggjjc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Storefront-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce-Storefront-Builder?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Storefront-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-E-Commerce-Storefront-Builder?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Storefront-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **E-Commerce Storefront Builders**. These tools help merchants design, launch, and operate online stores—covering everything from visual drag-and-drop storefront editors to headless commerce frameworks where you own the code, the data, and the checkout experience.
+---
 
-**Examples** include Shopify, BigCommerce, Wix eCommerce, Squarespace Commerce, WooCommerce, Medusa, Saleor, Vendure, PrestaShop, and Sylius (the category leaders).
+## 🌟 Top E-Commerce Storefront Builder Ecosystem
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted e-commerce, open-source storefront frameworks, and community-driven commerce platforms—ideal for merchants seeking to escape platform transaction fees, revenue-tier upgrades, and checkout restrictions. The open-source landscape is genuinely competitive: **Medusa** leads with 37k+ GitHub stars and a 0% GMV fee on its cloud , **WooCommerce** powers content-led stores with zero platform fees , and **Vendure** provides a GraphQL-first TypeScript alternative for complex B2B .
+> ⚡ **Curated List of SaaS Platforms & Open-Source GitHub Projects for Online Storefronts, Headless Commerce, and Self-Hosted Shopping Carts.**  
+> 🏷️ *Keywords: ecommerce, storefront, headless commerce, online store, shopify alternatives, shopping cart, self-hosted commerce, ecommerce platform, medusa, saleor, woocommerce.*  
+> 📅 **Last updated: March 2026**
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **E-Commerce Storefront Builders**. These tools empower merchants, brands, and developers to design, launch, and scale online shops—covering everything from visual drag-and-drop website editors to composable, headless commerce frameworks where you own 100% of your code, database, and checkout flow.
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+Category examples include industry giants like **Shopify**, **BigCommerce**, **Wix eCommerce**, **Squarespace Commerce**, and **Adobe Commerce**, alongside high-growth open-source engines like **Medusa**, **Saleor**, **Vendure**, **WooCommerce**, **Bagisto**, and **PrestaShop**.
 
-## Sector Overview & Market Dynamics
+💡 **Open-Source & Self-Hosted Focus**: This list highlights active projects for self-hosted e-commerce, open-source storefront frameworks, and community-driven commerce stacks—ideal for merchants seeking to escape rising platform transaction fees, revenue-tier penalties, and checkout lock-in. **Medusa** leads modern TypeScript stacks with 37k+ stars and 0% GMV fee on cloud, **WooCommerce** powers content-rich stores with zero platform fees, and **Vendure** provides an enterprise GraphQL-first architecture.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🛍️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global e-commerce software and storefront builder market is estimated at **$9.4B–$12.4B** (scaling toward **$30B+** at an ~11–15% CAGR). The sector is **moderately fragmented**: while a handful of dominant leaders (such as Shopify, WooCommerce, Adobe, and Squarespace) control the lion's share of global transaction volumes, no single player has achieved a winner-take-all monopoly due to diverging merchant needs across drag-and-drop SMB builders, composable/headless enterprise architectures, and localized regional payment ecosystems.
 
-## SaaS/Hosted Platforms
+---
+
+## 🛍️ SaaS / Hosted Platforms
 
 | Product | Company Size (Market Cap / Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|------------------------------------------------|-------------|-------------------|--------------------------|
@@ -35,7 +56,9 @@ The global e-commerce software and storefront builder market is estimated at **$
 | **[Wix eCommerce](https://www.wix.com/)** | **~$3.5B–$5.8B Market Cap** ($1.99B FY2025 Revenue) | Visual website builder with integrated commerce layer. Best for design-led small businesses that prioritize editing the entire site visually without technical work. | Light: **$17/month**; Core: **$29/month**; Business: **$36/month**; Business Elite: **$159/month** (billed annually). | **Permanent Free plan available** (limited to 500MB storage, 500MB bandwidth, Wix-branded domain/ads, and disabled payment gateway processing); 14-day money-back guarantee on paid plans. |
 | **[BigCommerce](https://www.bigcommerce.com/)** | **~$300M Market Cap** ($342.4M FY2025 Revenue) | Hosted commerce with native B2B and catalog depth. **June 2026 pricing tightened revenue caps**: Core now tops out at **$30K trailing 12-month sales** (down from $50K). **Open Payment Provider Fee**: 2% (Core), 1% (Growth), 0.6% (Scale) for non-embedded gateways. | Standard: **$29/month** (billed annually) or **$39/month** (monthly); Plus: **$79/month** ($105 monthly); Pro: **$299/month** ($399 monthly). | **15-day free trial** (unlimited products, full store setup & checkout testing, sandbox credit card processing; requires paid plan to point custom domain and launch). |
 
-## Open-Source GitHub Projects
+---
+
+## 🔓 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -55,24 +78,44 @@ The global e-commerce software and storefront builder market is estimated at **$
 | **[OpenCart](https://github.com/OpenCart/OpenCart)** | [![Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers) | **Classic lightweight PHP e-commerce management system.** GPLv3 licensed with **8,200+ GitHub stars**. Easy to deploy on shared hosting with a vast global library of extensions and payment gateways. |
 | **[Solidus](https://github.com/solidusio/solidus)** | [![Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | **Community-driven Ruby on Rails e-commerce framework.** BSD-3-Clause licensed with **5,300+ GitHub stars**. Fork of Spree Commerce focused on reliability, security, clean code, and enterprise-grade extensibility. |
 
-**Frameworks for building custom systems**: Choose **Medusa** for TypeScript headless commerce with 0% GMV fee and full checkout control , **WooCommerce** for WordPress-integrated stores with zero platform fees , **Saleor** or **Vendure** for GraphQL-first teams , and **Sylius** or **Spree** for framework-level PHP or Ruby customization —all without the revenue-cap upgrades and payment-gateway penalties of SaaS platforms.
+---
 
-## How to Contribute
+## 🛠️ How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+Contributions are warmly welcomed! Help us keep this directory fresh, accurate, and developer-friendly.
 
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- E-commerce platforms handle payment card data and customer PII; enforce PCI DSS compliance, encryption, and least-privilege access to admin panels.
-- **The "free" label requires scrutiny.** WooCommerce's core is free, but hosting, extensions, and payment processing are real costs—though a $10K/month store ran about **$593 in year one** with WooCommerce + CartFlows versus **$1,068** on Shopify Basic with Shopify Payments (or **$3,468** with a third-party gateway) . **BigCommerce's 2026 changes tightened revenue caps and added a 2% penalty** for non-embedded gateways on Core . **Open-source frameworks have different trade-offs**: Medusa is MIT-licensed with a 0% GMV fee on cloud ($29+/month) but requires TypeScript engineering , Vendure is GPLv3 (commercial license required for closed-source use) and its cloud isn't GA yet , and Sylius has a documented learning curve . Validate licensing, total cost (including hosting and maintenance), and payment gateway compatibility before committing.
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` following the existing format.
+3. 🔍 Ensure entries include: name, official repository/site link, 1–2 sentence factual summary, starting pricing, and license/trial terms.
+4. 🚀 Submit a Pull Request with a clear description of your additions.
 
 ---
 
-**Made for merchants, developers, and operations teams building online storefronts.**  
-Let's make e-commerce storefront builders more open, transparent, and merchant-friendly.
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this repository! If this curated collection saved you time or helped you choose the right storefront stack:
+
+- ⭐ **Star this repository** to show your appreciation and boost visibility!
+- 🍴 **Fork and share** it with your developer network, colleagues, or community.
+- ☕ **Buy me a coffee**: Support ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-E-Commerce-Storefront-Builder&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-E-Commerce-Storefront-Builder&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- E-commerce platforms handle payment card data and customer PII; enforce PCI DSS compliance, encryption, and least-privilege access to admin panels.
+- **The "free" label requires scrutiny.** WooCommerce's core is free, but hosting, extensions, and payment processing are real costs—though a $10K/month store ran about **$593 in year one** with WooCommerce + CartFlows versus **$1,068** on Shopify Basic with Shopify Payments (or **$3,468** with a third-party gateway). BigCommerce's 2026 changes tightened revenue caps and added a 2% penalty for non-embedded gateways on Core. Open-source frameworks have different trade-offs: Medusa is MIT-licensed with a 0% GMV fee on cloud ($29+/month) but requires TypeScript engineering, Vendure is GPLv3 (commercial license required for closed-source use) and its cloud isn't GA yet, and Sylius has a documented learning curve. Validate licensing, total cost (including hosting and maintenance), and payment gateway compatibility before committing.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for merchants, developers, and operations teams building online storefronts.</b><br>
+  <sub>Let's make e-commerce storefront builders more open, transparent, and merchant-friendly.</sub>
+</p>
