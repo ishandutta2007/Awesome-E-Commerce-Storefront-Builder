@@ -15,20 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global e-commerce software and storefront builder market is estimated at **$9.4B–$12.4B** (scaling toward **$30B+** at an ~11–15% CAGR). The sector is **moderately fragmented**: while a handful of dominant leaders (such as Shopify, WooCommerce, Adobe, and Squarespace) control the lion's share of global transaction volumes, no single player has achieved a winner-take-all monopoly due to diverging merchant needs across drag-and-drop SMB builders, composable/headless enterprise architectures, and localized regional payment ecosystems.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Shopify](https://www.shopify.com/)** | Leading hosted commerce platform with the broadest app ecosystem. Plans chosen by features (not revenue caps). **Third-party payment gateways add 0.6%–2% on top of gateway fees**. Checkout customization reserved for Plus . | Basic: **$29/month** (annual); Grow: **$79/month**; Advanced: **$299/month**; Plus: ~**$2,300/month**  | Free trial available (varies by promotion); no permanent free tier |
-| **[BigCommerce](https://www.bigcommerce.com/)** | Hosted commerce with native B2B and catalog depth. **June 2026 pricing tightened revenue caps**: Core now tops out at **$30K trailing 12-month sales** (down from $50K). **Open Payment Provider Fee**: 2% (Core), 1% (Growth), 0.6% (Scale) for non-embedded gateways . | Core: **$39/month** ($29 annual); Growth: **$105/month** ($79 annual)  | **15-day free trial**  |
-| **[Wix eCommerce](https://www.wix.com/)** | Visual website builder with commerce layer. Best for design-led small businesses that prioritize editing the entire site without technical work. **Commerce depth is shallower than Shopify or BigCommerce** . | Core: ~**$29/month** (regional pricing varies); Business: ~**$39/month**  | Free plan available (no payments); paid plans include free domain for 1 year |
-| **[Squarespace Commerce](https://www.squarespace.com/)** | Polished content-and-commerce presentation for creators and modest catalogs. **Less appropriate for complex wholesale operations or large multi-location inventory** . | Quote-only (tiered by features) | **14-day free trial** available |
-| **[Adobe Commerce](https://business.adobe.com/)** | Enterprise commerce (Magento). **Magento Open Source** is free to self-host but requires significant technical expertise and infrastructure . | Quote-only (enterprise); Magento Open Source free but high TCO | No free tier for Adobe Commerce; Magento Open Source free |
+| Product | Company Size (Market Cap / Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
+|---------|------------------------------------------------|-------------|-------------------|--------------------------|
+| **[Shopify](https://www.shopify.com/)** | **~$185B–$210B Market Cap** ($11.56B FY2025 Revenue) | Leading hosted commerce platform with the broadest app ecosystem. Plans chosen by features (not revenue caps). **Third-party payment gateways add 0.6%–2% on top of gateway fees**. Checkout customization reserved for Plus. | Starter: **$5/month**; Basic: **$29/month** (annual) / **$39/month** (monthly); Grow: **$79/month**; Advanced: **$299/month**; Plus: starting at **$2,300/month** | **3-day free trial** (often includes promotional $1/month for the first month); no permanent free tier. Full feature testing during trial. |
+| **[Adobe Commerce](https://business.adobe.com/)** | **~$94B Market Cap** ($23.77B FY2025 Revenue) | Enterprise commerce platform (Magento core with managed cloud). Multi-store, B2B modules, and complex ERP integrations. | Starts at **$1,833/month** (billed annually from **$22,000/year** for on-prem license, and from **$40,000/year** for Cloud PaaS); scales with GMV tier. | **30-day sandbox evaluation trial** upon sales request approval; Magento Open Source edition is free to self-host indefinitely. |
+| **[Squarespace Commerce](https://www.squarespace.com/)** | **$7.2B Take-Private Valuation** (~$1.1B+ Revenue) | Polished content-and-commerce presentation for creators and modest catalogs. Less appropriate for complex wholesale operations or large multi-location inventory. | Basic Commerce: **$19/month** (billed annually at $228/year) / **$25/month** (monthly) with 2% transaction fee; Core (0% fee): **$29/month** (annual) / **$39/month** (monthly). | **14-day free trial** with access to all website builder and e-commerce configuration features; publishing live transactions requires upgrading to a paid tier. |
+| **[Wix eCommerce](https://www.wix.com/)** | **~$3.5B–$5.8B Market Cap** ($1.99B FY2025 Revenue) | Visual website builder with integrated commerce layer. Best for design-led small businesses that prioritize editing the entire site visually without technical work. | Light: **$17/month**; Core: **$29/month**; Business: **$36/month**; Business Elite: **$159/month** (billed annually). | **Permanent Free plan available** (limited to 500MB storage, 500MB bandwidth, Wix-branded domain/ads, and disabled payment gateway processing); 14-day money-back guarantee on paid plans. |
+| **[BigCommerce](https://www.bigcommerce.com/)** | **~$300M Market Cap** ($342.4M FY2025 Revenue) | Hosted commerce with native B2B and catalog depth. **June 2026 pricing tightened revenue caps**: Core now tops out at **$30K trailing 12-month sales** (down from $50K). **Open Payment Provider Fee**: 2% (Core), 1% (Growth), 0.6% (Scale) for non-embedded gateways. | Standard: **$29/month** (billed annually) or **$39/month** (monthly); Plus: **$79/month** ($105 monthly); Pro: **$299/month** ($399 monthly). | **15-day free trial** (unlimited products, full store setup & checkout testing, sandbox credit card processing; requires paid plan to point custom domain and launch). |
 
 ## Open-Source GitHub Projects
 
